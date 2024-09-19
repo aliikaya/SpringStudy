@@ -6,7 +6,7 @@
 - Spring Security
 - Spring Rest
 
-## Syudy Steps
+## Study Steps
 > Spring MVC
 
 
